@@ -38,7 +38,7 @@ Aim to find an R to maximize a non-monotonous and submodular function.
 
 ### Objective: 
 * Network Embedding, which means projection of a network/graph to a low-dimension vector, and hold the relationships in the graph.
-* preserve structure of the network: including the 1st-order proximity (direct relationship, existing E_{i,j} links v_i and v_j) and 2nd-order proximity (indirect relationship, which assume that vertexs enjoying the similar neighborhood tend to be similar)
+* preserve structure of the network: including the 1st-order proximity (direct relationship, existing E_{i,j} links v_i and v_j) and 2nd-order proximity (indirect relationship, which assume that vertexs enjoying the similar neighborhood tend to be similar) (also remind me of Retinex model: when the local contraint works not that good, we turn to non-local one...)
 
 **PS**: seems like clustering of points; the salient difference is the hardship to represent the ordinal relationship of vertexs in the languages or something. So we need to change the format of representation from (0, 0, 0, ..., 1, ..., 0, 0) to like (1.2, 0.3, 5.5, ...).
 
