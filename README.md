@@ -19,3 +19,5 @@ My name is Qian Huang, an undergraduate at Nanjing University. I am thrilling to
 [2018-01-17](/Network Enbedding & Interpretable Decision Sets.md)
 
 [2018-01-18](/LRIID rebuttal.md)
+
+[2018-01-19](/Remaining work of rebuttal.md)

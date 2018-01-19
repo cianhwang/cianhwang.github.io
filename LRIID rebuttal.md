@@ -1,6 +1,6 @@
 # rebuttal
 
-Today the review comments of our CVPR paper has come out. The ranking is 334. Since this year the rank has 6 levels, getting accepted is not just a theortical possibility. Get ready for the rebuttal.
+Today the review comments of our CVPR paper has come out. The ranking is 335. Since this year the rank has 6 levels, getting accepted is not just a theortical possibility. Get ready for the rebuttal.
 
 ## Review 1
 His word is really insightful and accurately points out our strengths and weaknesses.
