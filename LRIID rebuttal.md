@@ -13,7 +13,7 @@ In conclusion, our main problems lie in:
 
 Rebuttal:
 * the introduction of global constraint would significantly slow down the efficiency of algorithm.
-* algo is quick, so we can search in an interval to find the one with the best performance.
+* algo is quick, so we can search in an interval to find the one with the best performance. AND one dataset we only need to change the \alpha and \beta once.
 * our initial estimation is accurate enough.
 * we only assume the illumination is known; (when the light condition is simple,) we can subtract the illumination info. using Zheng et al.'s method.
 
