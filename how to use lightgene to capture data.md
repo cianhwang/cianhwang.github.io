@@ -13,3 +13,5 @@ in the dark room.
 1. First set 2 red head lights. CAUTION: KEEP AWAY TO AVOID EXPLOSION.
 2. Fix the object and the camera. Capture.
 3. Tint. capture again.
+
+## use canny to replace the edge detection part.
