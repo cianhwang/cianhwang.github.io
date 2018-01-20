@@ -5,5 +5,5 @@
 * SSIM would help. 30 bands are fully-connected, so we take one vertex once; until 8 vertices (bands). Need discussion.
 3. RGB cases: do 2 experiments: 3 bands and 2 bands.
 4. Chen Xi's and Ours comparison, visually.
-5. image domain and log domain: do experiments.
+5. image domain and log domain: do experiments. Draw curve like Zheng's?
 6. prepare IID database and own results.
