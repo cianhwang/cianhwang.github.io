@@ -53,7 +53,9 @@ Aim to find an R to maximize a non-monotonous and submodular function.
 
 3. Regulation: l2-norm of parameters.
 
-Optimization: use BP method to update the parameters. (CAUTION: How to get the derivatives? Worth learning! Especially the transformation in Eq.(9), from sigma(...) to tr(Y^T (D-S) Y)
+Optimization: use BP method to update the parameters. (CAUTION: How to get the derivatives? Worth learning! Especially the transformation in Eq.(9), from sigma(...) to tr(Y^T (D-S) Y)\
+
+Using sigmoid function to maintain non-linear structure; 4 layers, so do not need to worry about gradient vanishment?
 
 ### Properties 
 * Incremental learning? easy to adjust when new vertexs being add to the network.
