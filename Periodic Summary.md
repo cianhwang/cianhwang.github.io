@@ -7,7 +7,8 @@ After several days working on CVPR rebuttal, I finally get a period of time to r
 * [CVPR rebuttal](./rebuttal.pdf) writing.
 * [MIID dataset](https://anonymouskids.github.io/#miid) capture.
 * a soothing [website](https://anonymouskids.github.io/) as the rebuttal material. Cooperate with [Flickr.com](https://www.flickr.com/people/155137192@N07/)
-* learned how to link my pc to 2 different github accont. [[link]](https://www.jianshu.com/p/f2bef9737a8a)[[link2]](https://www.jianshu.com/p/3fc93c16ad2d)
+* learned how to link my pc to 2 different github accont. [[link]](https://www.jianshu.com/p/f2bef9737a8a)[[link2]](https://www.jianshu.com/p/3fc93c16ad2d) (and how to link one account to 2 PC)
+* registered in arxiv using huangqian@smail.nju.edu.cn. Really an anonying platform.
 
 ## What I'm going to do
 * prune the code tree and make my code readable and easy to implement.
