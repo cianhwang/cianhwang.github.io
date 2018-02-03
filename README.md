@@ -24,4 +24,6 @@ My name is Qian Huang, an undergraduate at Nanjing University. I am thrilling to
 
 [2018-01-20](./how to use lightgene to capture data.md) How to use lightgene
 
-[2018-01-20](./Periodic Summary.md) Periodic Summary
+[2018-01-30](./Periodic Summary.md) Periodic Summary
+
+[2018-02-03](./ubuntu.md) Welcome to Linux!
