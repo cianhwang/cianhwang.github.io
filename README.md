@@ -27,3 +27,7 @@ My name is Qian Huang, an undergraduate at Nanjing University. I am thrilling to
 [2018-01-30](./Periodic Summary.md) Periodic Summary
 
 [2018-02-03](./ubuntu.md) Welcome to Linux!
+
+[2018-02-19] Our paper has been admitted by CVPR!
+
+[2018-02-24](./rebuttal.pdf) Rebuttal & Rebuttal [Material](./rebuttal.md)
