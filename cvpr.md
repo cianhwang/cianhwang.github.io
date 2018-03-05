@@ -8,5 +8,6 @@
 
 ## Database & code
 * [Code](https://github.com/cianhwang/LRIID) is completed.
+* Database: format?
 
 ## (cmt conflict domains?)
