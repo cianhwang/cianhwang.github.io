@@ -6,6 +6,10 @@ NVIDIA, Santa Clara, CA
 
 qian.huang140@duke.edu
 
+[cv](cv2022.pdf)
+
+![](photo.jpg)
+
 ---
 I am a Software Engineer on the Computer Vision and Deep Learning track at NVIDIA. My research focuses on computational imaging, computer vision, and deep learning.
 
