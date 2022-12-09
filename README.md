@@ -8,7 +8,7 @@ qian.huang140@duke.edu
 
 [cv](cv2022.pdf)
 
-![](photo.jpeg)
+<img src="photo.jpeg" alt="drawing" width="200"/>
 
 ---
 I am a Software Engineer on the Computer Vision and Deep Learning track at NVIDIA. My research focuses on computational imaging, computer vision, and deep learning.
