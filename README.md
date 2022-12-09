@@ -1,10 +1,22 @@
 # Qian Huang, Ph.D.
 
+<table>
+  <tr>
+    <td><img src="photo.jpeg" alt="photo" width="200" /></td>
+    <td>
+      <p>Computer Vision and Deep Learning Engineer</p>
+      <p>NVIDIA, Santa Clara, CA</p>
+      <p>qian.huang140 AT duke DOT edu</p>
+      <p><a src="cv2022.pdf">cv</a></p>
+    </td>
+  </tr>
+</table>
+
 Computer Vision and Deep Learning Engineer
 
 NVIDIA, Santa Clara, CA
 
-qian.huang140@duke.edu
+qian.huang140 at duke.edu
 
 [cv](cv2022.pdf)
 
