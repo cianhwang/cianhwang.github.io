@@ -1,26 +1,16 @@
 # Qian Huang, Ph.D.
 
-<table>
+<table border="0">
   <tr>
     <td><img src="photo.jpeg" alt="photo" width="200" /></td>
     <td>
       <p>Computer Vision and Deep Learning Engineer</p>
       <p>NVIDIA, Santa Clara, CA</p>
       <p>qian.huang140 AT duke DOT edu</p>
-      <p><a src="cv2022.pdf">cv</a></p>
+      <p><a href="cv2022.pdf">cv</a></p>
     </td>
   </tr>
 </table>
-
-Computer Vision and Deep Learning Engineer
-
-NVIDIA, Santa Clara, CA
-
-qian.huang140 at duke.edu
-
-[cv](cv2022.pdf)
-
-<img src="photo.jpeg" alt="drawing" width="200"/>
 
 ---
 I am a Software Engineer on the Computer Vision and Deep Learning track at NVIDIA. My research focuses on computational imaging, computer vision, and deep learning.
