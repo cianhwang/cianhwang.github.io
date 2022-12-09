@@ -6,13 +6,12 @@
     <td>
       <p>Computer Vision and Deep Learning Engineer</p>
       <p>NVIDIA, Santa Clara, CA</p>
-      <p>qian.huang140 AT duke DOT edu</p>
+      <p>qian.huang140~AT~duke~DOT~edu</p>
       <p><a href="cv2022.pdf">cv</a></p>
     </td>
   </tr>
 </table>
 
----
 I am a Software Engineer on the Computer Vision and Deep Learning track at NVIDIA. My research focuses on computational imaging, computer vision, and deep learning.
 
 I received my Ph.D. degree in electrical and computer engineering from Duke University in 2022, advised by Dr. David J. Brady. I received my B.S. degree in electronic information science and technology from Nanjing University in 2018.
